@@ -1,5 +1,4 @@
-# 💫 About Me:
-Estudante de engenharia de software<br>Apaixonado por tecnologia
+
 
 
 ## 🌐 Socials:
